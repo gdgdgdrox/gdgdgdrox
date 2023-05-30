@@ -1,7 +1,7 @@
 ### Hi there 👋  
 
-i am an aspiring software engineer versed in Java and Spring Boot. I believe in dedicating myself
-to work that is worth working hard for, especially those that make a positive impact on people's lives.  
+i am an aspiring software engineer versed in Java and Spring Boot. 
+I believe in dedicating myself to work that is worth working hard for, especially those that make a positive impact on people's lives.  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdgdgdrox)](https://github.com/anuraghazra/github-readme-stats)
 <!--
