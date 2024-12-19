@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-i am an aspiring software engineer versed in Java and Spring Boot.  
+i am an software engineer versed in Java and Spring Boot.  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdgdgdrox)](https://github.com/anuraghazra/github-readme-stats)
 <!--
