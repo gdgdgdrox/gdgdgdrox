@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-i am an software engineer versed in Java and Spring Boot.  
+I am a cloud developer specializing in Java (Spring Boot) and AWS.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdgdgdrox)](https://github.com/anuraghazra/github-readme-stats)
 <!--
